@@ -1,14 +1,7 @@
-# latihan_array_multidimensi
-
-# ============================================================
-#
 #   LATIHAN ARRAY MULTIDIMENSI PYTHON
 #   Materi : 2D Array, 3D Array, Operasi, dan Studi Kasus
-#   Level  : Pemula → Menengah
 #   Library: Tidak ada (built-in only)
-#
-# ============================================================
-#
+
 #   DAFTAR ISI
 #   ──────────────────────────────────────────────────────────
 #   Bagian 1 │ Array 2 Dimensi (Matriks)
@@ -26,7 +19,6 @@
 #     Ctrl+F5  →  Run Without Debugging
 #     ▶ tombol di pojok kanan atas
 #
-# ============================================================
  
 import random
  
@@ -421,9 +413,3 @@ for i, lapisan in enumerate(kubus):
         print("   ", baris)
  
 # ── Selesai ──────────────────────────────────────────────────
-print("\n" + "=" * 55)
-print("  Referensi lanjutan :")
-print("    Python List  → docs.python.org/3/tutorial/datastructures")
-print("    NumPy        → numpy.org/doc/stable/")
-print("=" * 55)
-print("=" * 55)
