@@ -421,3 +421,9 @@ for i, lapisan in enumerate(kubus):
         print("   ", baris)
  
 # ── Selesai ──────────────────────────────────────────────────
+print("\n" + "=" * 55)
+print("  Referensi lanjutan :")
+print("    Python List  → docs.python.org/3/tutorial/datastructures")
+print("    NumPy        → numpy.org/doc/stable/")
+print("=" * 55)
+print("=" * 55)
