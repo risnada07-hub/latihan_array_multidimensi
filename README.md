@@ -17,7 +17,7 @@
 #
 #   Di VS Code:
 #     Ctrl+F5  →  Run Without Debugging
-#     ▶ tombol di pojok kanan atas
+#     tombol di pojok kanan atas
 #
  
 import random
